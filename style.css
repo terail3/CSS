@@ -46,7 +46,7 @@ nav li:hover .dropdown {
 	border: 1px solid black;
 	border-radius: 5px;
 }
-#content ul {
+#content ul,dd {
 	padding-left: 40px;
 }
 #content {
