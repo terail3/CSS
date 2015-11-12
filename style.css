@@ -51,6 +51,7 @@ nav li:hover .dropdown {
 }
 #content {
 	font-family: Arial, sans-serif;	
+	text-align: justify;
 }
 #sidebar{
 	float: right;
